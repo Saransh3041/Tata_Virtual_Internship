@@ -13,3 +13,20 @@ We focused on identifying important trends, high-performing areas, and customer 
 
 - Highlight high-performing areas to guide the company’s expansion strategy.
 
+# Key Learnings
+- How to think from the perspective of business leaders to analyse data more effectively.
+
+- How to handel team meetings regarding projects planning and controlling.
+
+- How to choose right visuals to communicate information effectively in simplest possible manner.
+
+- How to visualize data analysis to help executives with effective decision making,
+
+- How to present storytelling effectively to senior leadership.
+
+
+
+
+
+
+- 
