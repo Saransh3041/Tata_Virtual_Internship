@@ -13,6 +13,7 @@ We focused on identifying important trends, high-performing areas, and customer 
 
 - Highlight high-performing areas to guide the company’s expansion strategy.
 
+
 # Key Learnings
 - How to think from the perspective of business leaders to analyse data more effectively.
 
@@ -29,4 +30,4 @@ We focused on identifying important trends, high-performing areas, and customer 
 
 
 
-- 
+
